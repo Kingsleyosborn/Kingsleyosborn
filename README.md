@@ -5,9 +5,9 @@
 -->
 
 
-- 🔭 I’m currently working on Software enginnering bootcamp. 
-- 🌱 I’m currently learning a software that can be built by python. I am also learning HTML5 and CSS.
-- 👯 I’m looking to collaborate on 
+- 🔭 I’m a junior Software enginner. 
+- 🌱 I have built softwares that can be built by python. I am also learning HTML5, CSS, Javascript.
+- 👯 I’m looking to collaborate on difficult project.
 - 🤔 I’m looking for help with basic 2D/ Indie game.
 - 💬 Ask me about anything.  
 - 📫 How to reach me: email me 
